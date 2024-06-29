@@ -32,13 +32,13 @@ The analysis of the dataset reveals the following insights:
 
 2. **Product Popularity**:
 
-   ![Image alt text](https://i.postimg.cc/Znfnc0CK/Task-01.png)
+   ![Image alt text](https://i.postimg.cc/Bb8G1CPp/Task-01.png)
    - Classic Cars are the most ordered product category with 967 orders.
    - Trains are the least popular product with only 77 orders.
 
 3. **Geographical Distribution**:
    
-   ![Image alt text](https://i.postimg.cc/X7zmM35Z/Task-02.png)
+   ![Image alt text](https://i.postimg.cc/q7jfbF8Q/Task-02.png)
    - The USA leads in the number of orders with a total of 1,004 orders.
    - Ireland has the lowest number of orders, amounting to 16.
 
